@@ -39,8 +39,8 @@ Anyway, feel free to explore what I'm building. 🛠️
 
 ## 📫 How to Reach Me
 
-[![Email] Enviar e-mail](mailto:biancaseara.p@gmail.com)
-[![GitHub] ](https://github.com/biancaseara)
+[![Contact](https://img.shields.io/badge/Contact%20me-red?style=flat&logo=gmail)](mailto:biancaseara.p@gmail.com)
+[![GitHub](https://img.shields.io/badge/Visit%20GitHub-181717?style=flat&logo=github)](https://github.com/biancaseara)
 
 ---
 
