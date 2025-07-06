@@ -24,7 +24,7 @@ Anyway, feel free to explore what I'm building. 🛠️
 |---------------|------------------------------------------------------|----------------|
 | 🎲 Dicee Game | A fun 2-player dice game with DOM logic             | HTML, CSS, JS  |
 | 🎵 Simon Game | Memory challenge game inspired by classic Simon Toy | HTML, CSS, JS, jQuery |
-| 🌐 Personal Website / Portfolio in progress                         | HTML, CSS, Bootstrap, Responsive Design |
+| 🌐 Capstone 2 | Personal Website / Portfolio in progress             | HTML, CSS, Bootstrap, Responsive Design |
 
 👉 More projects coming soon as I progress through my course!
 
